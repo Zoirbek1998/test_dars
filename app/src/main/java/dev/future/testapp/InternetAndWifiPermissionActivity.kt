@@ -1,5 +1,6 @@
 package dev.future.testapp
 
+import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -25,4 +26,6 @@ class InternetAndWifiPermissionActivity : AppCompatActivity() {
 
         })
     }
+
+
 }

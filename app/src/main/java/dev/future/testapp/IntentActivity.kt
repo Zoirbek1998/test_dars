@@ -1,5 +1,6 @@
 package dev.future.testapp
 
+import android.content.Context
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -23,6 +24,10 @@ class IntentActivity : AppCompatActivity() {
         binding.subTitle.text = subTitle
         binding.image.setImageResource(image)
 
+        val sharedPreferences = getSharedPreferences("sharedPref", Context.MODE_PRIVATE)
+        val saveString = sharedPreferences.getString("String_key", null)
+        val saveBoolean = sharedPreferences.getBoolean("boolean_key", false)
+        
 
     }
 }

@@ -12,10 +12,11 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+//        binding.webView.webViewClient = WebViewClient()
         binding.webView.webViewClient = WebViewClient()
 
         binding.webView.apply {
-            loadUrl("https://www.youtube.com/results?search_query=viewbinding+android+in+kotlin+tutorial")
+            loadUrl("https://kun.uz")
             settings.javaScriptEnabled = true
         }
 

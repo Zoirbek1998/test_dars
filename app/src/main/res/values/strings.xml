@@ -6,4 +6,9 @@
     <string name="frragment1">Fragment 1</string>
     <string name="frragment2">Fragment 2</string>
     <string name="frragment3">Fragment 3</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="settings">Settings</string>
+    <string name="history">History</string>
 </resources>

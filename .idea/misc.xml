@@ -6,21 +6,32 @@
         <entry key="../../../../../layout/custom_preview.xml" value="0.23143115942028986" />
         <entry key="app/src/main/res/drawable-v24/cricular_back_item,.xml" value="0.26" />
         <entry key="app/src/main/res/drawable/back_top.xml" value="0.26" />
+        <entry key="app/src/main/res/drawable/bottom_sheet_layout_background.xml" value="0.124" />
         <entry key="app/src/main/res/drawable/cricular_back.xml" value="0.26" />
+        <entry key="app/src/main/res/drawable/ic_baseline_pause_circle_outline_24.xml" value="0.1535" />
         <entry key="app/src/main/res/layout/activity_camera_and_galareya.xml" value="0.23072916666666668" />
         <entry key="app/src/main/res/layout/activity_dialog.xml" value="0.24583333333333332" />
         <entry key="app/src/main/res/layout/activity_fragment1.xml" value="0.39166666666666666" />
         <entry key="app/src/main/res/layout/activity_intent.xml" value="0.29791666666666666" />
         <entry key="app/src/main/res/layout/activity_internet_and_wifi_permission.xml" value="0.29791666666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_map.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/layout/activity_map_service.xml" value="0.23072916666666668" />
         <entry key="app/src/main/res/layout/activity_menu.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/layout/activity_music.xml" value="0.26875" />
+        <entry key="app/src/main/res/layout/activity_music_player.xml" value="0.2828125" />
         <entry key="app/src/main/res/layout/activity_navigation_bottom_menu.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/activity_pi_pactivity.xml" value="0.2828125" />
         <entry key="app/src/main/res/layout/activity_recycler.xml" value="0.39166666666666666" />
+        <entry key="app/src/main/res/layout/activity_services.xml" value="0.23072916666666668" />
         <entry key="app/src/main/res/layout/activity_shared_pref.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/activity_speed.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/layout/activity_speedametr.xml" value="0.23072916666666668" />
         <entry key="app/src/main/res/layout/activity_tab_layout.xml" value="0.18611111111111112" />
         <entry key="app/src/main/res/layout/activity_time.xml" value="0.23177083333333334" />
         <entry key="app/src/main/res/layout/activity_view_pager.xml" value="0.24583333333333332" />
         <entry key="app/src/main/res/layout/bottom_dialog.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/floating_layout.xml" value="0.28177083333333336" />
         <entry key="app/src/main/res/layout/fragment_1.xml" value="0.335" />
         <entry key="app/src/main/res/layout/fragment_2.xml" value="0.24583333333333332" />
         <entry key="app/src/main/res/layout/fragment_3.xml" value="0.24583333333333332" />
@@ -29,6 +40,7 @@
         <entry key="app/src/main/res/layout/fragment_setting.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/item_layout.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/list_item.xml" value="0.2296875" />
+        <entry key="app/src/main/res/layout/recycler_item.xml" value="0.2828125" />
         <entry key="app/src/main/res/layout/test.xml" value="0.39166666666666666" />
         <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.2828125" />
         <entry key="app/src/main/res/menu/menu.xml" value="0.22615384615384615" />
